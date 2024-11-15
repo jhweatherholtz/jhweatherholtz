@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jhweatherholtz/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jhweatherholtz/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jhweatherholtz/azure-network-protocols)
+  - [Building an Intuition for DNS](https://github.com/jhweatherholtz/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
